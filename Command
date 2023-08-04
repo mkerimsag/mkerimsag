@@ -1,0 +1,7 @@
+echo "# cgm-remote-minitor" >> README.md 
+git init 
+git add README.md 
+git commit -m "ilk taahhüt" 
+git şubesi -M ana 
+git remote add origin https://github.com/mkerimsag/cgm- remote-minitor.git
+ git push -u kaynak ana
